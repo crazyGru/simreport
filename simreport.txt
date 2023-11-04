@@ -1,0 +1,3 @@
+11.4
+	Earth	1.5(Gmail) +  0.04(Linkedin)
+	Admin	0.4(Gmail)
