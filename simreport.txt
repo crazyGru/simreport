@@ -9,3 +9,4 @@
 	Il	0.4(Gmail)
 	Chung	0.62(Gmail)	
 	Dash	0.22(Gmail)
+	Leo	0.04(Linkedin)
