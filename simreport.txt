@@ -5,3 +5,6 @@
 	C	0.4(Gmail)
 	Geine	0.4(Gmail)
 	DevGuru	0.4(Gmail)
+11.8
+	Il	0.4(Gmail)
+	Chung	0.62(Gmail)	
