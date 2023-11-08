@@ -10,3 +10,6 @@
 	Chung	0.62(Gmail)	
 	Dash	0.22(Gmail)
 	Leo	0.04(Linkedin)
+11.9
+	Dash	0.22(Gmail)
+	DarkFox	0.22(Gmail)
